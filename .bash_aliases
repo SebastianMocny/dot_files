@@ -19,7 +19,7 @@ alias hist='history | tail -30'
 alias usb_connect='screen /dev/cu.usbserial-DN01XFY9 115200 -L'
 alias py='python3'
 
-# Pass is Fin1&Swe2!
+# Pass is in notes! 
 alias raspi_ssh='ssh pi@10.10.16.31'
 
 # Here we have commands for simulated sensors
